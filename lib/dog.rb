@@ -7,5 +7,10 @@ class Dog
     this_dog_name
   end 
   
+lassie = Dog.new
+lassie.name = "Lassie"
+ 
+lassie.name 
+  
 end 
 
